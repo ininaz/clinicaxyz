@@ -536,7 +536,7 @@ iframe {
 
 /* Formatação para layout responsivo */
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
 
     /*media queries*/
     /* header{
@@ -602,11 +602,6 @@ iframe {
             width: 20%;
         }
     }
-}
-
-@media screen and (max-width: 600px) {
-    /* header{
-        background-color: red; */
 }
 
 @media screen and (max-width: 400px) {
