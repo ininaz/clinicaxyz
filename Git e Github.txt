@@ -29,7 +29,7 @@ git branch -M main
 git remote add origin https://github.com/ininaz/frontend1.git
 
 #Envia os commits locais para o repositório remoto (origin) no branch main, e configura o tracking para futuros pushes.
-git push -u origin main
+git push -u origin majin
 
 
 
